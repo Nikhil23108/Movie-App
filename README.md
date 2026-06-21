@@ -17,6 +17,7 @@ Axios
 CSS
 JavaScript
 Movie API (TMDB API)
+
 📂 Project Structure
 src/ ├── components/ ├── pages/ ├── App.js ├── index.js ├── styles/ └── assets/
 
