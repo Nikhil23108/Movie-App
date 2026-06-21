@@ -50,7 +50,7 @@ npm start
 
 <img width="1352" height="597" alt="image" src="https://github.com/user-attachments/assets/90b419e9-6823-40a6-82f5-ca11b50cca1f" />
 
-<img width="1350" height="599" alt="image" src="https://github.com/user-attachments/assets/45bd8d8b-87ac-426c-ae53-d29b49a3f1ff" />
+<img width="1348" height="597" alt="image" src="https://github.com/user-attachments/assets/c009fa26-a736-4694-a659-afdd57803140" />
 
 <img width="1352" height="596" alt="image" src="https://github.com/user-attachments/assets/c7267377-fb34-4681-9d01-a4e02e71a3ab" />
 
